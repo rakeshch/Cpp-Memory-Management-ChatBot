@@ -1,4 +1,4 @@
-# CPPND: Memory Management Chatbot
+# Memory Management Chatbot
 
 This is the project for the third course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Memory Management.
 
@@ -33,19 +33,17 @@ Your goal is to use the course knowledge to optimize the ChatBot program from a 
 3. Compile: `cmake .. && make`
 4. Run it: `./membot`.
 
-## Project demo
+## Project Demo
 
 <img src="images/demo.png"/>
 
-## Project schematic
+## Program schematic
 
 <img src="images/schematic1.png"/>
 
 <img src="images/schematic2.png"/>
 
 ## Project Task Details
-
-Currently, the program crashes when you close the window. There is a small bug hidden somewhere, which has something to do with improper memory management. So your first warm-up task will be to find this bug and remove it. This should familiarize you with the code and set you up for the rest of the upcoming tasks. Have fun debugging!
 
 There are five major tasks in this Memory Management chatbot project, which are:
 
